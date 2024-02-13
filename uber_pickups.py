@@ -9,11 +9,11 @@ import streamlit.components.v1 as com
 st.set_page_config(layout="wide")
 ##img = Image.open("sample_streamlit\\uber_img.png")
 
-st.image(
-    img, 
-    caption = "Uber Logo",
-    width = 1200
-)
+##st.image(
+##    img, 
+##    caption = "Uber Logo",
+##    width = 1200
+##)
 
 
 
