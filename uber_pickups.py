@@ -7,7 +7,7 @@ from PIL import Image
 import streamlit.components.v1 as com
 
 st.set_page_config(layout="wide")
-img = Image.open("D:\\Designing\\uber_img.png")
+img = Image.open("sample_streamlit\\uber_img.png")
 
 st.image(
     img, 
